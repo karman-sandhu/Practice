@@ -28,9 +28,9 @@ div[data-testid="stMetric"] {
 """
 st.markdown(css, unsafe_allow_html=True)
 
-
+#Hello world!
 st.write('Hello world!')
-
+#Headings
 st.title('Streamlit :red[Tutorial]')
 st.header(':blue[Introduction to Databases]')
 st.subheader("🐥💻 Web Applications")
